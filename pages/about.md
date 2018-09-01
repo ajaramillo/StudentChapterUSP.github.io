@@ -8,9 +8,9 @@ tags: [Sobre, Arquivo]
 
 Esta é a página do SIAM Student Chapter no ICMC USP! Como o nome
 indica, o Chapter (como é popularmente conhecido) é um grupo ligado à
-[SIAM](www.siam.org) com o propósito de gerar e explorar o interesse
+[SIAM](https://www.siam.org) com o propósito de gerar e explorar o interesse
 em matemática aplicada e áreas correlatas, provendo oportunidades para
-(entre outras coisas): 
+(entre outras coisas):
 * Compartilhar ideias e entusiasmo com colegas e professores do Campus;
 * Ajudar a difundir a matemática;
 * Explorar oportunidades de carreira;
@@ -19,7 +19,7 @@ em matemática aplicada e áreas correlatas, provendo oportunidades para
 Idealmente, o Chapter inclui membros de diversos departamentos do
 Campus (tais como de física, engenharia, química, é claro, matemática,
 entre outros), encorajando participação interdisciplinar. As
-atividades do grupo podem incluir ações como: 
+atividades do grupo podem incluir ações como:
 * Visita a áreas de pesquisa ou de indústria;
 * Discussões sobre temas diversos;
 * Projetos em time, como competições para alunos da graduação;
